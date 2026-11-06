@@ -1,0 +1,10 @@
+{
+  "name": "Engineering Coach",
+  "short_name": "Eng Coach",
+  "description": "A private, local-first engineering workflow companion.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "icons": []
+}
