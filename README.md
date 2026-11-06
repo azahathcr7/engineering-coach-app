@@ -25,7 +25,7 @@ This is a client-side app. Tasks, notes, and settings stay in the browser profil
 
 ## Project status
 
-The repository starts as a usable single-user application. The original Engineering Workflow Coach skill package was not present in the connected files when this repository was initialized, so this implementation uses a transparent, generic engineering workflow model. Add the exact skill Markdown package to the repository to align its coaching rules, terminology, and workflows precisely.
+The repository includes the source Markdown for the Engineering Workflow Coach skill under `skills/engineering-workflow-coach/`: `SKILL.md` plus reference files for the architect path, beginner glossary, flavours, change lifecycle, role playbooks, and templates. These files preserve the supplied coaching specification. The current browser app remains a deterministic local-first companion; the Markdown skill is versioned as its coaching source of truth, but is not yet wired to a live model or runtime skill loader.
 
 ## Development
 
